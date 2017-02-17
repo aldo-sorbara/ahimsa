@@ -1260,6 +1260,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-weight: 400;
   padding-left: 30px;
   padding-right: 30px;
+  line-height: 40px;
 }
 #fh5co-started .btn a{
   color: #fff;
@@ -1806,7 +1807,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-blog.vida-saludable{
-  background: #c7f9ed;  
+  background: #c7f9ed;
 }
 #fh5co-offcanvas a {
     color: #fff;
