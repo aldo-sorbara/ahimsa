@@ -1,0 +1,20 @@
+{
+  "name": "Ahimsa",
+  "version": "1.0.0",
+  "description": "",
+  "author": [
+    "Aldo Sorbara"
+  ],
+  "scripts": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^3.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-rename": "^1.2.2",
+    "gulp-sort": "^2.0.0",
+    "gulp-uglify": "^2.0.1"
+  }
+}
